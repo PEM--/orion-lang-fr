@@ -99,6 +99,8 @@ i18n.map 'fr',
     file:
       choose: 'Choisir un fichier'
       noFile: 'Pas de fichier'
+    image:
+      choose: 'Choisir une image'
   tabular:
     search: 'Rechercher:'
     info: 'Affiche _START_ à _END_ de _TOTAL_ entrées'
