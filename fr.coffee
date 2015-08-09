@@ -101,6 +101,9 @@ i18n.map 'fr',
       noFile: 'Pas de fichier'
     image:
       choose: 'Choisir une image'
+    images:
+      choose: 'Choisir les images'
+      clickToRemove: 'Clicker pour effacer'
   tabular:
     search: 'Rechercher:'
     info: 'Affiche _START_ à _END_ de _TOTAL_ entrées'
